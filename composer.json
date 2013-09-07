@@ -54,6 +54,12 @@
 			"name": "Jeffrey Winesett",
 			"email": "jefftulsa@gmail.com",
 			"role": "Documentation and marketing"
+		},
+		{
+			"name": "Ciaran Maher",
+			"email": "ciaran@square1.io",
+			"homepage": "http://square1.io/",
+			"role": "Repackaged for composer"
 		}
 		
 	],
