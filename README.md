@@ -1,4 +1,4 @@
-Yii PHP via Composer
+Yii PHP Framework via Composer
 ===
 
 This is a repackaged version of [yiisoft/yii](https://github.com/yiisoft/yii) that only includes the `framework/` directory.
@@ -28,5 +28,5 @@ The "yiic" command line tool that can create a skeleton Yii application is avail
     $ vender/bin/yiic webapp %APPNAME%
 
 
-Square1
-http://www.square1.io
+
+For more information on using Yii and Composer checkout http://square1.io/
