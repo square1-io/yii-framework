@@ -23,9 +23,9 @@ Then to install the framework just run:
 Quick Start
 -----------
 
-The "yiic" command line tool that can create a skeleton Yii application is available at `vender/bin/yiic`
+The "yiic" command line tool that can create a skeleton Yii application is available at `vendor/bin/yiic`
 
-    $ vender/bin/yiic webapp %APPNAME% git
+    $ vendor/bin/yiic webapp %APPNAME% git
 
 
 
