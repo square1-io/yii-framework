@@ -25,7 +25,7 @@ Quick Start
 
 The "yiic" command line tool that can create a skeleton Yii application is available at `vender/bin/yiic`
 
-    $ vender/bin/yiic webapp %APPNAME%
+    $ vender/bin/yiic webapp %APPNAME% git
 
 
 
