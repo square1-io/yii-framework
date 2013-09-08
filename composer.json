@@ -1,5 +1,5 @@
 {
-	"name": "square1-io/yii",
+	"name": "square1-io/yii-framework",
 	"description": "Yii Web Programming Framework",
 	"keywords": ["yii", "framework"],
 	"homepage": "http://www.yiiframework.com/",
@@ -59,7 +59,7 @@
 			"name": "Ciaran Maher",
 			"email": "ciaran@square1.io",
 			"homepage": "http://square1.io/",
-			"role": "Repackaged for composer"
+			"role": "Repackaged composer"
 		}
 		
 	],
