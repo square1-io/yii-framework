@@ -29,4 +29,4 @@ The "yiic" command line tool that can create a skeleton Yii application is avail
 
 
 
-For more information on using Yii and Composer checkout http://square1.io/
+For more information on using Yii and Composer checkout [http://blog.square1.io/](http://blog.square1.io/post/60830077608/yii-1-1-14-via-composer)
