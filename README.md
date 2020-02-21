@@ -12,7 +12,7 @@ Just add this to your composer.json file:
 
     {
         "require": {
-            "square1-io/yii-framework": "1.1.14"
+            "lfglopes/yii-framework": "1.1.22"
         }
     }
 
